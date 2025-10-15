@@ -1,0 +1,194 @@
+@media (max-width: 700px){
+    img{
+        opacity: 0;
+    }
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    left: 45%;
+}
+
+#num{
+  text-align: left;
+  font-size: 50%;
+  padding-left: 5%;
+}
+
+#poids{
+  text-align: right;
+  font-size: 50%;
+  padding-right: 5%;
+}
+
+#case{
+  border: solid;
+  border-color: black;
+  font-size: 200%;
+  width: 2.85em;
+  height: 2.85em;
+}
+
+#espace{
+    background-color: white;
+}
+
+.tableau{
+  display: flex;
+  gap: 0.4rem;            
+  align-items: flex-start; 
+}
+
+
+
+.orange{
+    background-color: orange;
+}
+
+.colonne{
+  display: inline-block;
+  vertical-align: top;
+  background-color: yellow;
+  text-align: center;
+}
+
+.deuxieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6.05em;
+    background-color: yellow;
+    text-align: center;
+}
+
+.troisieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.quatrieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.cinquieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.sixieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.septieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.huitieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.neuvieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.dixieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.onzieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.douzieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18.15em;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.treizieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6.05em;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.quatorzieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6.05em;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.quinzieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6.05em;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+
+.seizieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6.05em;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.dixseptieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 6.05em;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.dixhuitieme-colonne{
+    display: inline-block;
+    vertical-align: top;
+    background-color: forestgreen;
+    text-align: center;
+}
+
